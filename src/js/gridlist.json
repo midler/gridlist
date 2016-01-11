@@ -143,11 +143,11 @@
   "source": "sass",
   "description": "Responsive Design Made Easy"
 }, {
-  "title": "",
-  "src": "",
-  "type": "",
-  "source": "",
-  "description": ""
+  "title": "Helium",
+  "src": "https://github.com/cbrauckmuller/helium",
+  "type": "framework",
+  "source": "sass",
+  "description": "Helium is a frontend responsive web framework for rapid prototyping and production-ready development using HTML5 and CSS3."
 }, {
   "title": "",
   "src": "",
