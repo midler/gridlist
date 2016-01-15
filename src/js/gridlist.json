@@ -921,89 +921,89 @@
   "source": "less",
   "description": "The nonintrusive CSS toolkit for beautiful, responsive websites."
 }, {
-  "title": "",
-  "src": "",
-  "type": "",
-  "source": "",
+  "title": "Don’t Overthink It Grids",
+  "src": "https://css-tricks.com/dont-overthink-it-grids/",
+  "type": "tutorial",
+  "source": ["css","sass"],
   "description": ""
 }, {
-  "title": "",
-  "src": "",
-  "type": "",
-  "source": "",
-  "description": ""
+  "title": "AURORA GRID",
+  "src": "http://themes-pixeden.com/aurora-kit/grid",
+  "type": "grid",
+  "source": "css",
+  "description": "The big idea behind Aurora Grid is to empower our users with all the tools necessary to create beautiful layouts for any devices with a simple and easy to use system. "
 }, {
-  "title": "",
-  "src": "",
-  "type": "",
-  "source": "",
-  "description": ""
+  "title": "Penguin",
+  "src": "http://penguin.docs.bqws.io/",
+  "type": "framework",
+  "source": "sass",
+  "description": "penguin is a lightweight and extensible front-end framework built with Sass to kickstart any web project."
 }, {
-  "title": "",
-  "src": "",
-  "type": "",
-  "source": "",
-  "description": ""
+  "title": "BLOCSS",
+  "src": "http://blocss.github.io/blocss/#grid",
+  "type": "framework",
+  "source": "scss",
+  "description": "Blocss (‘Blocks’) is a small but powerfull css framework designed specially for serious developers."
 }, {
-  "title": "",
-  "src": "",
-  "type": "",
-  "source": "",
-  "description": ""
+  "title": "ungrid",
+  "src": "http://chrisnager.github.io/ungrid/",
+  "type": "grid",
+  "source": "css",
+  "description": "ungrid - the simplest responsive css grid"
 }, {
-  "title": "",
-  "src": "",
-  "type": "",
-  "source": "",
-  "description": ""
+  "title": "Flex Semantic Grid ",
+  "src": "http://flexgridframework.com/",
+  "type": "framework",
+  "source": ["stylus", "sass"],
+  "description": "The Flex Semantic Grid focusing on performance for stylus and Sass."
 }, {
-  "title": "",
-  "src": "",
-  "type": "",
-  "source": "",
-  "description": ""
+  "title": "Framaterial Framework",
+  "src": "http://framaterial.github.io/framaterial/",
+  "type": "framework",
+  "source": "scss",
+  "description": "A Framework to create Material Design projects ! "
 }, {
-  "title": "",
-  "src": "",
-  "type": "",
-  "source": "",
-  "description": ""
+  "title": "essence",
+  "src": "http://essence.pearlhq.com/",
+  "type": "framework",
+  "source": "less",
+  "description": "THE ESSENTIAL MATERIAL DESIGN FRAMEWORK"
 }, {
-  "title": "",
-  "src": "",
-  "type": "",
-  "source": "",
-  "description": ""
+  "title": "Juiced",
+  "src": "http://juicedcss.com/",
+  "type": "framework",
+  "source": "sass",
+  "description": "Juiced is flexible CSS front-end framework that has many improvments over existing Grid-based CSS frameworks. It is built on the Flexible Boxes Layout spec and is supported by all modern browsers IE10+."
 }, {
-  "title": "",
-  "src": "",
-  "type": "",
-  "source": "",
-  "description": ""
+  "title": "Flexy-plexy",
+  "src": "https://github.com/nazar-pc/Flexy-plexy",
+  "type": "framework",
+  "source": "scss",
+  "description": "Ridiculously simple, incredibly powerful grid system"
 }, {
-  "title": "",
-  "src": "",
-  "type": "",
-  "source": "",
-  "description": ""
+  "title": "Scooter",
+  "src": "http://dropbox.github.io/scooter/index.html",
+  "type": "framework",
+  "source": "scss",
+  "description": "Welcome to Scooter: an SCSS framework built to provide base styles, CSS components, and rapid static prototyping for Dropbox."
 }, {
-  "title": "",
-  "src": "",
-  "type": "",
-  "source": "",
-  "description": ""
+  "title": "Decorator",
+  "src": "http://decorator.codable.org/",
+  "type": "framework",
+  "source": "css",
+  "description": "The framework is being rewritten from scratch. A brand new modular and lighter angular.js supported version of framework and a new extensive and responsive documentation is coming soon at: Decorator.io For more info visit, star or watch at: Github Repo"
 }, {
-  "title": "",
-  "src": "",
-  "type": "",
-  "source": "",
-  "description": ""
+  "title": "Gridlex",
+  "src": "http://gridlex.devlint.fr/",
+  "type": "grid system",
+  "source": ["less", "scss"],
+  "description": "Just a CSS Flexbox Grid System"
 }, {
-  "title": "",
-  "src": "",
-  "type": "",
-  "source": "",
-  "description": ""
+  "title": "gridism",
+  "src": "http://cobyism.com/gridism/",
+  "type": "grid",
+  "source": "css",
+  "description": "A simple responsive CSS grid"
 }, {
   "title": "",
   "src": "",
